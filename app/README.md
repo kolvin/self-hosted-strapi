@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [🚀 Getting started with Strapi](#-getting-started-with-strapi)
+    - [`develop`](#develop)
+    - [`start`](#start)
+    - [`build`](#build)
+  - [⚙️ Deployment](#-deployment)
+  - [📚 Learn more](#-learn-more)
+  - [✨ Community](#-community)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.

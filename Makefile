@@ -12,6 +12,9 @@ build: ## Build src
 run: ## Run dev project
 	@cd app; npm run dev
 
+validate: ## Validate files with pre-commit hooks
+	@pre-commit run --all-files
+
 preview: ## Preview complied site 
 	@make -s build
 	@cd app; npm run start
